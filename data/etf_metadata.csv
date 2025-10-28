@@ -1,0 +1,11 @@
+ticker,ETF_Name,Description
+SPY,"SPDR S&P 500 ETF Trust","Tracks the S&P 500 Index, providing exposure to 500 large-cap U.S. companies."
+VTI,"Vanguard Total Stock Market ETF","Covers the entire U.S. equity market, including small-, mid-, and large-cap growth and value stocks."
+QQQ,"Invesco QQQ Trust","Tracks the Nasdaq-100 Index, focused on technology and growth companies."
+IWM,"iShares Russell 2000 ETF","Provides exposure to 2,000 small-cap U.S. companies."
+EFA,"iShares MSCI EAFE ETF","Tracks developed markets outside North America (Europe, Australasia, Far East)."
+EEM,"iShares MSCI Emerging Markets ETF","Provides exposure to large- and mid-cap companies in emerging markets."
+AGG,"iShares Core U.S. Aggregate Bond ETF","Broad exposure to U.S. investment-grade bonds."
+SCHD,"Schwab U.S. Dividend Equity ETF","Focuses on high dividend yielding U.S. stocks with a record of consistent dividends."
+VYM,"Vanguard High Dividend Yield ETF","Tracks high dividend yield U.S. companies, excluding REITs."
+XLK,"Technology Select Sector SPDR Fund","Provides exposure to technology companies in the S&P 500."
